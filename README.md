@@ -10,7 +10,7 @@ Shout out to Andre Neves who is the real genius here.  This repository is an ada
 
 You can save the javascript file and import the decoder function. Here is a snapshot of an example. 
 
-```
+```react
 
 /* eslint-disable camelcase */
 import React, { Component } from 'react';
